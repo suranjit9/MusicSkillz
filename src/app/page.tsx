@@ -1,9 +1,11 @@
-import Image from "next/image";
+import FechartSection from "@/components/ui/FechartSection";
+import HeroSection from "@/components/ui/HeroSection";
 
 export default function Home() {
   return (
-    <main className="mt-8 flex min-h-screen flex-col items-center justify-between p-24">
-    <h2>Hpme page </h2> 
+    <main className="min-h-screen bg-black/[0.96] antialiased bg-grid-white/[0.02]">
+    <HeroSection/>
+    <FechartSection/>
     </main>
   );
 }
