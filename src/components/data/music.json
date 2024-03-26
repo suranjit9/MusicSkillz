@@ -8,7 +8,7 @@
         "price": 99.99,
         "instructor": "John Doe",
         "isFeatured": true,
-        "image": "/courses/guitar.jpg" 
+        "image": "https://i.ibb.co/r0nJm18/png-clipart-guitar-musical-instrument-electric-guitar-image-file-formats-photography.png" 
       },
       {
         "id": 2,
@@ -28,7 +28,7 @@
         "price": 119.99,
         "instructor": "Emily Johnson",
         "isFeatured": true,
-        "image": "/courses/vocalist.jpg" 
+        "image": "https://i.ibb.co/xMJ3Ldq/pexels-lucas-craig-3684446.jpg" 
       },
       {
         "id": 4,
@@ -58,7 +58,7 @@
         "price": 149.99,
         "instructor": "Alex Wilson",
         "isFeatured": true,
-        "image": "/courses/music-prod.jpg"
+        "image": "https://i.ibb.co/kSn1Pjd/pexels-north-1407322.jpg"
       },
       {
         "id": 7,
@@ -78,7 +78,7 @@
         "price": 169.99,
         "instructor": "Luke Harris",
         "isFeatured": true,
-        "image": "/courses/music-prod.jpg"
+        "image": "https://i.ibb.co/xMJ3Ldq/pexels-lucas-craig-3684446.jpg"
       },
       {
         "id": 9,
@@ -98,7 +98,7 @@
         "price": 189.99,
         "instructor": "Ethan Moore",
         "isFeatured": true,
-        "image": "/courses/blues.jpg"
+        "image": "https://i.ibb.co/gjvhSkp/pexels-pixabay-270288.jpg"
       }
     ]
   }
